@@ -1,0 +1,11 @@
+@CHARSET "UTF-8";
+
+
+.para1, .para2{
+	display: inline;
+	
+}
+
+#span1{
+	display : block;
+}

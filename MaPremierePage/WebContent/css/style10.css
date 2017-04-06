@@ -1,0 +1,42 @@
+@CHARSET "UTF-8";
+
+
+div{
+	background-color: #4BB5C1;
+	width: 400px;
+	border: 5px solid black;
+	border-radius: 15px;
+}
+
+.para1{
+	position: static;
+	top:100px; /*ne permet de bouger le paragraphe car nous sommes en static qui empeche de bouger l'élément*/
+	left:50px;
+}
+
+.para2{
+	position: relative;
+	left: 50px;
+
+}
+
+h1{
+	background-color: yellow;
+	width:200px;
+	border: 5px solid #777;
+	border-radius:15px;
+	position: fixed;
+	top:0px;
+	left:200px;
+	z-index: 2;
+	
+}
+h2{
+	position:  absolute;
+	background-color: blue;
+	border: 2px solid black;
+	border-radius: 10px;
+	top: 10px;
+	left: 130px;
+	z-index: 3;
+}

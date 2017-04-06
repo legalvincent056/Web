@@ -1,0 +1,21 @@
+@CHARSET "UTF-8";
+
+body{
+	/*Couleur de fond*/
+	background-color: fuchsia;	
+}
+
+p{
+	/* couleur de la police*/
+	color: blue;
+	/*type de police*/
+	font-family: cursive;
+	/*taille de police*/
+	font-size: 20px;
+}
+
+a{
+	color: green;
+	font-weight: bold;
+	text-decoration: none;
+}

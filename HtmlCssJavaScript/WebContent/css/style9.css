@@ -1,0 +1,23 @@
+@CHARSET "UTF-8";
+
+.para{
+	
+	color: red;
+}
+
+.para1{
+	color: green;
+}
+
+
+.gros_titre1{
+	color: yellow;
+}
+
+img{
+	width:70%;
+}
+
+.texteAdroite{
+	text-align: right;
+}

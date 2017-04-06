@@ -1,0 +1,21 @@
+@CHARSET "UTF-8";
+
+body{
+	color: #5BBAAE;
+	
+}
+
+p{
+	color: red;
+	
+}
+
+
+#para{
+	
+	color: black;
+}
+
+strong{
+	color: blue;
+}	/*la couleur blue de strong prend le dessus de la couleur du body defini auparavent*/
